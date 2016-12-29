@@ -1,0 +1,12 @@
+C:\Users\German\AppData\Local\Temporary Projects\examen\bin\Debug\examen.exe.config
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\bin\Debug\examen.exe.config
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\bin\Debug\examen.exe
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\bin\Debug\examen.pdb
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\bin\Debug\examen.xml
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\obj\Debug\examen.Resources.resources
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\obj\Debug\examen.vbproj.GenerateResource.Cache
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\obj\Debug\examen.exe
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\obj\Debug\examen.xml
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\obj\Debug\examen.pdb
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\obj\Debug\examen.MenuPrincipal.resources
+C:\Users\German\Documents\Visual Studio 2012\Projects\examen\examen\obj\Debug\examen.Acercade.resources
